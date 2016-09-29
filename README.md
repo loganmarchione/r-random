@@ -1,2 +1,5 @@
 # r-random
-Chrome extension that loads r/random from Reddit.
+Chrome Extension that loads r/random from Reddit.
+
+Available on the Chrome Web Store.
+https://chrome.google.com/webstore/detail/rrandom/gmhndeomijimbcjiooflbeegglaahcgi
