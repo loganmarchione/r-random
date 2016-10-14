@@ -1,7 +1,7 @@
 # r-random
 Extension that loads r/random from Reddit.
 
-![Chrome Web Store](https://raw.githubusercontent.com/loganmarchione/r-random/master/icon_chrome_web_store.png)
+![Chrome Web Store](https://raw.githubusercontent.com/loganmarchione/r-random/master/icon_chrome_web_store.png)  
 Available on the Chrome Web Store  
 https://chrome.google.com/webstore/detail/rrandom/gmhndeomijimbcjiooflbeegglaahcgi
 
