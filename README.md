@@ -1,7 +1,7 @@
 # r-random
 WebExtension that loads r/random from Reddit.  
 
-Available for Chrome and Firefox
+## Available for Chrome and Firefox
  
 [![Chrome Web Store](https://raw.githubusercontent.com/loganmarchione/r-random/master/icon_chrome_web_store.png)](https://chrome.google.com/webstore/detail/rrandom/gmhndeomijimbcjiooflbeegglaahcgi/)
 
