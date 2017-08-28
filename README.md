@@ -1,5 +1,5 @@
 # r-random
-Extension that loads r/random from Reddit.  
+WebExtension that loads r/random from Reddit.  
 &nbsp;  
 Available for Chrome and Firefox
 &nbsp;  
