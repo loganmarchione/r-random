@@ -1,3 +1,5 @@
+# This extension is no longer maintained. The master branch of this extension will do a self-uninstall. For a working copy, use an older release.
+
 # r-random
 WebExtension that loads r/random from Reddit.  
 
